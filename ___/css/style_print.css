@@ -1,0 +1,36 @@
+body {
+	font-family: arial;
+	margin: 20px auto;
+	width: 95%;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+table tr td {
+	font-family: arial;
+	font-size: 14px;
+	padding: 3px;
+	vertical-align: top;
+}
+
+.table-bordered {
+	border-collapse: collapse;
+	width: 100%;
+	border: solid 1px #000;
+	margin-bottom: 20px;
+}
+
+.table-bordered tr td, .table-bordered tr th {
+	font-family: arial;
+	font-size: 14px;
+	padding: 3px;
+	border: solid 1px #000;
+}
+
+h4 {margin-bottom: 0px; margin-top: 0px;}
+.ctr {text-align: center}
+.rgt {text-align: right}
